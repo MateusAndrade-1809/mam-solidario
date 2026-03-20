@@ -8,17 +8,17 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Mateus Andrade Motta
+- Matricula: 907005
+- Proposta de projeto escolhida: Organizações e Equipes
+- Breve descrição sobre seu projeto: O projeto M.A.M Solidário é um site desenvolvido com foco em apresentar uma ONG fictícia voltada para ações sociais e ajuda comunitária. A proposta da página é mostrar a missão da organização, seus projetos, formas de ajuda e meios de contato, incentivando a participação de voluntários e doadores.
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Wireframe](./public/img/wireframe_ONG.png)
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Home-page](./public/img/HomePageONG.png)
